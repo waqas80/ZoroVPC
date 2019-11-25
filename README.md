@@ -11,4 +11,3 @@ Project Files
      zorovpc.tf: This file contains the complete code of creating VPC, SubNets, Load Balancer, EC2 instances, security groups and routing table.
      
 You can find more detail about this code on http://geeksstack.com/create-aws-vpc-public-subnet-using-terraform/
-
